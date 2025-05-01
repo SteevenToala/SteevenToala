@@ -24,6 +24,9 @@
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steeventoala&layout=compact&theme=vision-friendly-dark)
-![Steven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steeventoala&show_icons=true&theme=tokyonight)
+## 🧠 GitHub Stats
+
+![Steven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steeventoala&show_icons=true&theme=vision-friendly-dark)
+
 
 
