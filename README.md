@@ -18,13 +18,6 @@
 
 ## 📊 Lenguajes más usados
 
-- 🟣 PHP: 58.84%  
-- 🔴 HTML: 24.84%  
-- 🟡 JavaScript: 7.42%  
-- 🟣 CSS: 6.57%  
-- 🟤 Java: 1.20%  
-- ⚪ Hack: 1.13%
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steeventoala&layout=compact&theme=chartreuse-dark)
 
 ## 🧠 Estadísticas de GitHub
