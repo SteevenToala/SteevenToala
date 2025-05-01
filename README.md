@@ -21,7 +21,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/steeventoala)
 [![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=flat-square&logo=github)](https://github.com/steeventoala)
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steeventoala&layout=compact)
-![Steven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steeventoala&show_icons=true&theme=vision-friendly-dark)
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steeventoala&layout=compact&theme=vision-friendly-dark)
+![Steven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steeventoala&show_icons=true&theme=tokyonight)
+
 
