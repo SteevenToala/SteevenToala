@@ -23,4 +23,5 @@
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steeventoala&layout=compact)
-![Steven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steeventoala&show_icons=true&theme=tokyonight)
+![Steven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steeventoala&show_icons=true&theme=vision-friendly-dark)
+
