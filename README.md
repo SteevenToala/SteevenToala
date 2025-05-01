@@ -1,11 +1,12 @@
 # Hola 👋, soy Steven Toala
 
-- 🔧 Soy desarrollador Backend con experiencia en PHP.  
-- 🌱 Actualmente estoy fortaleciendo mis habilidades en el desarrollo Backend moderno.  
-- 🤔 Estoy buscando colaborar en proyectos Open Source relacionados con servicios web y lógica del lado del servidor.  
-- 💬 Puedes preguntarme sobre PHP, bases de datos, y buenas prácticas Backend.  
-- 🧪 Estoy profundizando en frameworks y herramientas que optimicen el rendimiento y la seguridad del lado servidor.  
-- 🤝 Abierto a colaborar en proyectos que busquen escalar y mejorar sus sistemas Backend.
+🔧 Soy desarrollador Backend especializado en PHP, con sólidos conocimientos en el diseño y construcción de aplicaciones del lado del servidor.  
+🌱 Actualmente me encuentro perfeccionando mis habilidades en tecnologías backend modernas y arquitecturas escalables.  
+🤝 Estoy abierto a colaborar en proyectos Open Source que busquen robustecer su lógica de negocio y mejorar el rendimiento de sus sistemas.  
+💬 Puedo ayudarte con temas relacionados a PHP, gestión de bases de datos, diseño de APIs, y buenas prácticas en desarrollo Backend.  
+🧪 Me apasiona explorar frameworks, herramientas y metodologías que garanticen aplicaciones seguras, eficientes y mantenibles.  
+🚀 Siempre busco aportar valor en equipos que desarrollan soluciones tecnológicas funcionales, limpias y orientadas a resultados.
+
 
 ## 🛠️ Lenguajes y Herramientas:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
